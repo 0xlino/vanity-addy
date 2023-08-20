@@ -1,6 +1,6 @@
 import { getVanityWallet } from "./index";
 
-const prefix = 'ben';
+const prefix = '999';
 const suffix = '';
 const isChecksum = false;
 
