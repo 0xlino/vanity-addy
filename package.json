@@ -1,0 +1,22 @@
+{
+  "name": "vanity-addy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "keccak": "^3.0.3",
+    "randombytes": "^2.1.0",
+    "secp256k1": "^5.0.0"
+  },
+  "devDependencies": {
+    "@types/keccak": "^3.0.1",
+    "@types/node": "^20.5.1",
+    "@types/randombytes": "^2.0.0",
+    "@types/secp256k1": "^4.0.3"
+  }
+}
